@@ -1,17 +1,17 @@
-const typed = new Typed(".typed-input", {
-    strings: ["orte Bosh"],
-    typeSpeed: 300,
-    showCursor: false,
-  });
-  const secondTyped = new Typed(".dot", {
-    strings: ["..."],
-    startDelay: 4500,
-    typeSpeed: 200,
-    showCursor: false,
-    loop: true,
-    backDelay:700,
-    backSpeed:200,
-  });
+// const typed = new Typed(".typed-input", {
+//     strings: ["orte Bosh"],
+//     typeSpeed: 300,
+//     showCursor: false,
+//   });
+//   const secondTyped = new Typed(".dot", {
+//     strings: ["..."],
+//     startDelay: 4500,
+//     typeSpeed: 200,
+//     showCursor: false,
+//     loop: true,
+//     backDelay:700,
+//     backSpeed:200,
+//   });
   function randomImage() {
     const images = [
       "images/image1.jpg",
